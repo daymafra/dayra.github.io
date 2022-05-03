@@ -1,13 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/daymafra/dayra.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## 
+< html >
+< cabeça >
+    < title > Olá, eu sou o título. </ título >
+</ cabeça >
+< corpo >
+   < h1 > h1 Eu sou o corpo </ h1 > 
+   < h2 > h2 Eu sou o corpo </ h2 > 
+</ corpo >
+< ol >
+    < li > Café </ li >
+    < li > Chá </ li >
+    < li > Leite </ li >
+</ ol >
+< ul >
+    < li > Café </ li >
+    < li > Chá </ li >
+    < li > Leite </ li >
+</ ul >
+</ html >
 ```markdown
 Syntax highlighted code block
 
